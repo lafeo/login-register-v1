@@ -2,6 +2,9 @@
   "name": "nodejs-passport-login",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "6.11.1"
+  },
   "main": "passport-config.js",
   "scripts": {
     "start": "node server.js"
